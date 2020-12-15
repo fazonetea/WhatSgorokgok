@@ -1,0 +1,2 @@
+# WhatSgorokgok
+Bot Ku :)
