@@ -1,4 +1,4 @@
-FROM fazonetea/whatsgorokgok:publicbeta
+FROM fusuf/whatsasena:publicbeta
 
 RUN git clone https://github.com/fazonetea/WhatSgorokgok /root/WhatSgorokgok
 RUN mkdir /root/WhatSgorokgok/bin/
