@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Quiec/WhatsAsena.git"
+    "url": "git+https://github.com/fazonetea/WhatSgorokgok.git"
   },
   "keywords": [
     "whatsapp"
   ],
-  "author": "AsenaDev / Yusuf Usta",
+  "author": "Fazone",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Quiec/WhatsAsena/issues"
+    "url": "https://github.com/fazonetea/WhatSgorokgok/issues"
   },
   "homepage": "https://github.com/Quiec/WhatsAsena#readme",
   "dependencies": {
