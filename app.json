@@ -1,6 +1,6 @@
 {
-    "name": "WhatsAsena",
-    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp.",
+    "name": "Whatsgorokgok",
+    "description": "Whatsgorokgok Bot",
     "logo": "https://i.ibb.co/rxWp4v4/573dcd30eef9.jpg",
     "keywords": ["whatsapp", "userbot", "Asena"],
     "repository": "https://github.com/fazonetea/WhatSgorokgok",
@@ -9,57 +9,57 @@
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "Qr.Js ile oluşturduğunuz özel session kodu.",
+            "description": "Kode sesi khusus yang Anda buat dengan kode Qr",
             "required": true
         },
         "SUDO": {
-            "description": "Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
+            "description": "Mode Sudo; Nomor Anda harus nomor internasional. Jadi, Anda harus memiliki nomor Anda setelah kode negara. Contoh: 6285xxxxxxxxx (nomor ID +62)",
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES",
+            "description": "Bahasa Bot. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES",
             "required": true,
             "value": "ID"
         },
         "HANDLERS": {
-            "description": "Komutlar için.",
+            "description": "Kode Perintah.",
             "required": true,
             "value": "^[.!;]"
         },
         "SEND_READ": {
-            "description": "Görüldü atmak istiyorsanız true yazın.",
+            "description": "Jika Anda ingin membuang seen, ketik benar (true).",
             "required": true,
             "value": "true"
         },
         "HEROKU": {
-            "description": "Herokuda çalışıyorsa true yazın.",
+            "description": "Jika berjalan di Heroku, ketik benar (true).",
             "required": true,
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "Herokuda API Keyiniz. Heroku API Key.",
+            "description": "Heroku API Key Wajib isi.",
             "required": true
         },
         "HEROKU_APP_NAME": {
-            "description": "Herokuda uygulama adı. Heroku APP Name.",
+            "description": "Nama Bot nya.",
             "required": true
         },
         "DEBUG": {
-            "description": "Geliştiricilere özeldir.",
+            "description": "Eksklusif untuk pengembang.",
             "required": true,
             "value": "false"
         },
         "REMOVE_BG_API_KEY": {
-            "description": "Fotoğrafların arkaplanını kaldırır. https://remove.bg",
+            "description": "FMenghapus latar belakang foto. https://remove.bg",
             "required": false
         },
         "NO_ONLINE": {
-            "description": "Çevrimiçi görünmek istemiyorsanız true yazın.",
+            "description": "Ketik benar jika Anda tidak ingin terlihat online (true).",
             "required": false,
             "value": "true"
         },
         "COFFEEHOUSE_API_KEY": {
-            "description": "CoffeeHouse API Key. Need for Lydia. https://coffeehouse.intellivoid.net/",
+            "description": "Kunci API CoffeeHouse. Kebutuhan Lydia. https://coffeehouse.intellivoid.net/",
             "required": false,
             "value": "true"
         }
