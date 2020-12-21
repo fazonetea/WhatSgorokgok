@@ -15,7 +15,7 @@ Deploy ke heroku
 Save
 Aktifkan
 ```
-[![Run on Repl.it](https://repl.it/badge/github/fazonetea/WhatSgorokgok)](https://repl.it/@fazonetea/indexjs) <h1>Disini Untuk Scan Kodenya</h1> 
+[![Run on Repl.it](https://repl.it/badge/github/fazonetea/WhatSgorokgok)](https://repl.it/@fazonetea/indexjs) Disini Untuk Scan Kodenya 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fazonetea/WhatSgorokgok) <h1>Disini Untuk Menjalankan Scriptnya</h1> 
 
