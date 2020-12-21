@@ -21,7 +21,7 @@ Aktifkan
 
 ### ⚠️ Perhatian! 
 ```
-Karena Userbot; Akun WhatsApp Anda mungkin dibanned.
+Karena Userbot; Akun WhatsApp Anda Bisa Jadi kan Terbanned Jika Pemakaian Diluar Batasnya.
 Ini adalah proyek open source, Anda bertanggung jawab atas semua yang Anda lakukan.
 Tentu saja, para eksekutif gorokgok tidak menerima tanggung jawab.
 Dengan mendirikan gorokgok, Anda dianggap telah menerima tanggung jawab ini.
